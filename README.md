@@ -17,10 +17,8 @@ My strong skills are:
 - High Availability
 - Clustering
 
-🏢 I'm currently mainly focused on areas of #blockchain, #ai
 
-- 💬 Ping me about **devops**, **sre**, **cloud**, **development**
-- ⚡️ Fun fact: I really to travel and radical sports
+🏢 I'm currently mainly focused on areas of #blockchain, #ai
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
