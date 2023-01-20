@@ -7,14 +7,20 @@
 
 <img align="right" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="500" height="320" />
 
-I’m senior Devops Engineer with over 20yrs of professional experience. I have worked at a number of companies gaining teamwork and a lot of skills. My strong skills are:
+I’m senior Devops Engineer with over 20yrs of professional experience. I have worked at a number of companies gaining teamwork and a lot of skills. 
+
+My strong skills are:
 - Kubernetes
 - Clouds (Azure & GCP) 
 - CI/CD Automations (Github Actions, CircleCi, Flux2 mostly but also others)
 - BigData
-- Ansible
 - High Availability
 - Clustering
+
+🏢 I'm currently mainly focused on areas of #blockchain, #ai
+
+- 💬 Ping me about **devops**, **sre**, **cloud**, **development**
+- ⚡️ Fun fact: I really to travel and radical sports
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
