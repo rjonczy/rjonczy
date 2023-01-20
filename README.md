@@ -3,6 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjonczy&label=Profile%20views&color=0e75b6&style=flat" alt="rjonczy" /> </p>
 
+<h3 align="left">About me</h3>
+
+<img align="right" src="images/gifs/coder3.gif" width="500" height="320" />
+
+I’m senior Devops Engineer with over 20yrs of professional experience. I have worked at a number of companies gaining teamwork and a lot of skills. My strong skills are:
+- Kubernetes
+- Clouds (Azure & GCP) 
+- CI/CD Automations (Github Actions, CircleCi, Flux2 mostly but also others)
+- BigData
+- Ansible
+- High Availability
+- Clustering
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/robertjonczy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robertjonczy" height="30" width="40" /></a>
