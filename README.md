@@ -22,4 +22,6 @@
 <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="redis" width="40" height="40"/> </a> 
 <a href="https://docs.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
 <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="ansible" width="40" height="40"/> </a>
+<a href="https://bitbucket.org/product/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="40" height="40"/> </a>
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a>
 </p>
