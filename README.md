@@ -18,7 +18,7 @@ My strong skills are:
 - Clustering
 
 
-🏢 I'm currently mainly focused on areas of #blockchain, #ai
+I'm currently mainly focused on areas of #blockchain, #ai
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
