@@ -10,7 +10,8 @@
 I’m senior Devops Engineer with over 20yrs of professional experience. I have worked at a number of companies gaining teamwork and a lot of skills. 
 
 My strong skills are:
-- Kubernetes
+- Kubernetes / Docker
+- Distributed systems
 - Clouds (Azure & GCP) 
 - CI/CD Automations (Github Actions, CircleCi, Flux2 mostly but also others)
 - BigData
