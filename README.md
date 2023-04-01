@@ -25,8 +25,18 @@ I'm currently mainly focused on areas of #blockchain, #ai
 <p align="left">
 <a href="https://linkedin.com/in/robertjonczy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robertjonczy" height="30" width="40" /></a>
 <a href="https://twitter.com/robertjonczy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robertjonczy" height="30" width="40" /></a>
-
 </p>
+
+<h3 align="left">Certifications</h3>
+<p align="left">
+<ul>
+  <li><a href="https://www.credly.com/earner/earned/badge/0ed33688-1a4e-4c14-ab33-6e64a681898e" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="cka" width="40" height="40"/> CKA: Certified Kubernetes Administrator </a> </li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul> 
+</p>
+
+
 
 <h3 align="left">Programming Languages</h3>
 <p align="left"> 
