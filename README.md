@@ -30,7 +30,7 @@ I'm currently mainly focused on areas of #blockchain, #ai
 <h3 align="left">Certifications</h3>
 <p align="left">
 <ul>
-  <li><a href="https://www.credly.com/earner/earned/badge/0ed33688-1a4e-4c14-ab33-6e64a681898e" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="cka" width="40" height="40"/> CKA: Certified Kubernetes Administrator </a> </li>
+  <li><a href="https://www.credly.com/earner/earned/badge/0ed33688-1a4e-4c14-ab33-6e64a681898e" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="cka" width="40" height="40"/> CKA: Certified Kubernetes Administrator </a> </li>
   <li>Tea</li>
   <li>Milk</li>
 </ul> 
