@@ -7,7 +7,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="500" height="320" />
 
-I’m senior Devops Engineer with over 20yrs of professional experience on Ops / DevOps / SRE positions. I have worked at a number of companies gaining teamwork and a lot of skills. 
+I’m senior Devops Engineer with over 22yrs of professional experience on Ops / DevOps / SRE positions. I have worked at a number of companies gaining teamwork and a lot of skills. 
 
 My strong skills are:
 - Kubernetes / Docker
